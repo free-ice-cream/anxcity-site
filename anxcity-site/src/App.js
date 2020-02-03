@@ -25,7 +25,7 @@ class Header extends Component {
   }
   render(){
     return(
-    <div className = "header">header</div>
+    <div className = "header ">header</div>
     )
   }
 }
